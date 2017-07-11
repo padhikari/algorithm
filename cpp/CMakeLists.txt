@@ -1,2 +1,1 @@
-cmake_minimum_required(VERSION 2.8.12)
-project(Poco)
+add_executable(example1 example1.cpp)
